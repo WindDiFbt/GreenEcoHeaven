@@ -55,8 +55,8 @@ GreenEcoHeaven/
 ```bash
 git clone https://github.com/WindDiFbt/GreenEcoHeaven.git
 ```
-Use IntelliJ IDEA or Eclipse.
-Update the database connection in dao/DBcontext.java.
-Deploy with Apache Tomcat 10 or later.
+- Use IntelliJ IDEA or Eclipse.
+- Update the database connection in dao/DBcontext.java.
+- Deploy with Apache Tomcat 10 or later.
 
 MIT © WindDiFbt
