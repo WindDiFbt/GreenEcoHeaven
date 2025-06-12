@@ -22,7 +22,7 @@
                     <h1>Organic Food</h1>
                     <p>Sản xuất các thực phẩm đông lạnh, thực phẩm sơ chế và chế biến để đáp ứng xu
                         hướng và nhu cầu thực phẩm luôn thay đổi là điều chúng tôi làm tốt nhất.</p>
-                    <a style="text-decoration: none; color: #842029" href="/home">← Quay lại trang chủ</a>
+                    <a style="text-decoration: none; color: #842029" href="/GreenEcoHeaven_war/home">← Quay lại trang chủ</a>
                 </div>
             </div>
             <div class="right">
